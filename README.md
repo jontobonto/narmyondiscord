@@ -1,10 +1,10 @@
-### Hey, I'm Narmy 👋
+### Hey, I'm Jonte 👋
 
 ## I'm a Student!
 
 - ✨ I’m the founder of [Xino][xino].
 - 🌱 I’m currently learning how to write better python code
-- 🥅 My Goal for 2022 is to become more familiar with GitHub in general
+- 🥅 My Goal for 2023 is to become more familiar with web development
 
 ### Languages and Tools:
 
